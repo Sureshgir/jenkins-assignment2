@@ -1,0 +1,2 @@
+This is master2 file from master branch.
+This is written for testing purpose.
